@@ -14,13 +14,13 @@
 
 ![CineLookup in action](CineLookup/assets/CineLookup.gif)
 
-> Prefer video? [Watch the full demo](assets/CineLookup.mp4)
+> Prefer video? [Watch the full demo](CineLookup/assets/CineLookup.mp4)
 
 ## 🖼️ Screenshots
 
 | Context Menu | Search Tabs | Clipboard Copy |
 |--------------|-------------|----------------|
-| ![Context Menu](assets/SS1.png) | ![Search Tabs](assets/SS2.png) | ![Clipboard Copy](assets/SS3.png) |
+| ![Context Menu](CineLookup/assets/SS1.png) | ![Search Tabs](CineLookup/assets/SS2.png) | ![Clipboard Copy](CineLookup/assets/SS3.png) |
 
 ## 🛠️ Installation
 
