@@ -14,7 +14,6 @@
 
 ![CineLookup in action](CineLookup/assets/CineLookup.gif)
 
-> Prefer video? [Watch the full demo](CineLookup/assets/CineLookup.mp4)
 
 ## 🖼️ Screenshots
 
