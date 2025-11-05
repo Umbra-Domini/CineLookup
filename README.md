@@ -17,7 +17,7 @@
 
 ## 🖼️ Screenshots
 
-| Context Menu | Search Tabs | Clipboard Copy |
+| Context Menu | Sub Menu | Clipboard Copy |
 |--------------|-------------|----------------|
 | ![Context Menu](CineLookup/assets/SS1.png) | ![Search Tabs](CineLookup/assets/SS2.png) | ![Clipboard Copy](CineLookup/assets/SS3.png) |
 
@@ -27,11 +27,6 @@
 2. Go to `chrome://extensions` in your browser
 3. Enable **Developer Mode** (top right)
 4. Click **Load unpacked** and select the `cine-lookup` folder
-
-## 📦 Coming Soon
-
-- Chrome Web Store release
-- More
 
 ## 🧠 Author
 
