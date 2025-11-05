@@ -31,9 +31,7 @@
 ## 📦 Coming Soon
 
 - Chrome Web Store release
-- Optional settings panel
-- Custom site list support
-- Dark mode toggle
+- More
 
 ## 🧠 Author
 
