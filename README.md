@@ -23,10 +23,18 @@
 
 ## 🛠️ Installation
 
+You can install CineLookup in two ways:
+
+### Option 1: From the Chrome Web Store
+- Search for **CineLookup** in the [Chrome Web Store](https://chrome.google.com/webstore)
+- Click **Add to Chrome** to install instantly
+
+### Option 2: Manual Installation (for developers)
 1. Clone or download this repo
 2. Go to `chrome://extensions` in your browser
 3. Enable **Developer Mode** (top right)
 4. Click **Load unpacked** and select the `cine-lookup` folder
+
 
 ## 🧠 Author
 
