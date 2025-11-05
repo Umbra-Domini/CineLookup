@@ -12,7 +12,7 @@
 
 ## 📸 Demo
 
-![CineLookup in action](assets/CineLookup.gif)
+![CineLookup in action](CineLookup/assets/CineLookup.gif)
 
 > Prefer video? [Watch the full demo](assets/CineLookup.mp4)
 
