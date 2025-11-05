@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #1a1a1a;
+            color: #d1c4e9;
+            margin: 0;
+            padding: 16px;
+            width: 320px;
+            box-sizing: border-box;
+        }
+
+        .header {
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 12px;
+            color: #b39ddb;
+        }
+
+        .live {
+            color: #66bb6a;
+            font-weight: bold;
+        }
+
+        .terminal-title {
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 6px;
+            color: #9575cd;
+            border-bottom: 1px solid #9575cd;
+            padding-bottom: 4px;
+        }
+
+        .terminal {
+            background-color: #212121;
+            padding: 12px;
+            border-radius: 6px;
+            max-height: 220px;
+            overflow-y: auto;
+            border: 1px solid #424242;
+        }
+
+        .line {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 6px 0;
+            padding: 4px 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .line-text {
+            flex-grow: 1;
+            font-weight: bold;
+            color: #d1c4e9;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .line-text::before {
+            content: "- ";
+            color: #9575cd;
+            font-weight: bold;
+        }
+
+        .copy-btn {
+            background: none;
+            border: none;
+            color: #9575cd;
+            font-size: 11px;
+            cursor: pointer;
+            padding: 2px 6px;
+        }
+
+        .copy-btn:hover {
+            text-decoration: underline;
+            color: #d1c4e9;
+        }
+
+        .empty {
+            color: #757575;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">CineLookup is <span class="live">live</span></div>
+    <div class="terminal-title">Last 10 Searches</div>
+    <div class="terminal" id="terminal"></div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>
